@@ -1,4 +1,4 @@
-# Cryptohumter - Crypto Tracker
+# Cryptohunter - Crypto Tracker
 
 ![Cryptohunter preview](./banner-en.png)
 
